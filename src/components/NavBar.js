@@ -1,4 +1,5 @@
-import React from "react";
+// NavBar.js
+import React from 'react';
 
 function NavBar() {
   return (
@@ -7,3 +8,5 @@ function NavBar() {
     </nav>
   );
 }
+
+export default NavBar;
